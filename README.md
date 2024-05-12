@@ -7,7 +7,7 @@
   <a href="https://gitlab.com/vladichhhh">
     <img src="https://img.shields.io/badge/Gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab Badge"/>
   </a>
-  <a href="https://web.telegram.org/k/">
+  <a href=" https://t.me/Vovvll">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
 </a>
 </div>
