@@ -33,5 +33,6 @@ I am a Frontend Developer from Russia.
 
 - :zap: In my free time, I read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@Vovvll-blue?style=flat&logo=telegram&logoColor=white)](https://web.telegram.org/@Vovvll)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@Vovvll-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Vovvll)
+
 
