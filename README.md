@@ -53,9 +53,12 @@ I am a Frontend Developer from Russia.
 
 ### :fire: My Stats :
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vladich21&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladich21)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### :writing_hand: Blog Posts :
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
