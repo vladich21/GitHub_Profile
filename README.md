@@ -20,7 +20,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
---- 
-:man_technologist: 
-About Me :
-I am a Frontend Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Russia
+
+---
+
+### :man_technologist: About Me :
+
+I am a Frontend Developer from Russia.
+
+- :telescope: I am developing client-server applications.
+
+- :seedling: Optimization, refactoring, bug fixing.
+
+- :zap: In my free time, I read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-@Vovvll-blue?style=flat&logo=telegram&logoColor=white)](https://web.telegram.org/@Vovvll)
+
