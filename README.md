@@ -57,7 +57,7 @@ I am a Frontend Developer from Russia.
 
 ---
 
-### :writing_hand: My channel and chat :
+### :writing_hand: My channel :
 
  <a href="https://t.me/ITTechnologyyy">
     <img src="https://img.shields.io/badge/Channel-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
